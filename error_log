@@ -1,0 +1,5 @@
+[05-Aug-2023 10:47:33 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /home1/finchmedia/public_html/dbfunctions.php on line 2
+[05-Aug-2023 10:47:39 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /home1/finchmedia/public_html/dbfunctions.php on line 2
+[05-Aug-2023 10:47:46 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /home1/finchmedia/public_html/dbfunctions.php on line 2
+[05-Aug-2023 10:47:57 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /home1/finchmedia/public_html/dbfunctions.php on line 2
+[05-Aug-2023 10:48:26 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /home1/finchmedia/public_html/dbfunctions.php on line 2
